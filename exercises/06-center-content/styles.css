@@ -1,1 +1,8 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+.center {
+	background-color: grey;
+	width: 400px;
+	margin: auto;
+}
